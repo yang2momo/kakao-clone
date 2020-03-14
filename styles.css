@@ -1,6 +1,6 @@
 body,
 html {
-  background-color: lightcoral;
+  background-color: wheat;
   padding: 0;
   margin: 0;
   height: 100%;
@@ -21,4 +21,17 @@ html {
   width: 50%;
   height: 50%;
   border: 5px solid peru;
+}
+.prBox {
+  background-color: rosybrown;
+  width: 100px;
+  height: 100px;
+  border: 1px solid brown;
+  display: inline-block;
+}
+/* body {
+  height: 400px;
+  background-color: chocolate;
+} */
+.poBox {
 }
