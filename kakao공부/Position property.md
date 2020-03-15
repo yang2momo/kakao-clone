@@ -21,4 +21,19 @@
 - ### absolute
 
   > fixed랑 비슷. 어디에든 붙일 수 있지만 스크롤한다고 보이지 않는다.
+  >
+  > html상에서 해당 element와 관계가 있는 (relative- 부모박스) element를 살펴보고 이에 상응해서 포지션이 결정된다.
 
+- #### Position fixed
+
+  > 고정 어디든 오버램해서 계속 해당 위치에 고성시키기 위한것.
+
+- #### Position relative
+
+- #### Position absolute
+
+  > 포지션 relative에 상대적으로 포지션을 잡는것. relative 포지션이 없을 경우, absolute는 문서의 본문 body에 맞춰서 포신셔을 잡음.
+
+- #### Position static
+
+  > 디폴트
